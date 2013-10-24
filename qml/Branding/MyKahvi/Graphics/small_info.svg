@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:25:05 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="30px" x="0px" version="1.1" y="0px" height="30px" viewBox="0 0 30 30" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="Layer_1" xml:space="preserve">
+ <path fill-opacity="0.4" d="M29.814,15.186C29.814,26.16,25.977,30,15,30S0.186,26.16,0.186,15.186C0.186,4.209,4.023,0.37,15,0.37&#xd;&#xa;&#x9;S29.814,4.209,29.814,15.186z"/>
+ <g>
+  <path fill="#92624C" d="M29.814,14.814C29.814,25.79,25.977,29.63,15,29.63S0.186,25.79,0.186,14.814S4.023,0,15,0&#xd;&#xa;&#x9;&#x9;S29.814,3.839,29.814,14.814z"/>
+ </g>
+ <linearGradient id="SVGID_1_" y1="0" x1="14.9995" y2="29.6304" gradientUnits="userSpaceOnUse" x2="14.9995">
+  <stop offset="0" style="stop-color:#000000;stop-opacity:0"/>
+  <stop offset="1" style="stop-color:#0A0A0A"/>
+ </linearGradient>
+ <path fill="url(#SVGID_1_)" fill-opacity="0.5" d="M29.814,14.814C29.814,25.79,25.977,29.63,15,29.63S0.186,25.79,0.186,14.814&#xd;&#xa;&#x9;S4.023,0,15,0S29.814,3.839,29.814,14.814z"/>
+ <linearGradient gradientTransform="matrix(1 0 0 -1 174.2749 153.5547)" id="SVGID_2_" y1="153.4609" x1="-159.2749" y2="124.1106" gradientUnits="userSpaceOnUse" x2="-159.2749">
+  <stop offset="0" style="stop-color:#FFFFFF"/>
+  <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+ </linearGradient>
+ <path stroke-opacity="0.15" fill="url(#SVGID_2_)" fill-opacity="0.15" d="M15,0C4.023,0,0.186,3.839,0.186,14.814&#xd;&#xa;&#x9;S4.023,29.63,15,29.63s14.814-3.84,14.814-14.815S25.977,0,15,0z M15,29.261c-10.799,0-14.445-3.646-14.445-14.446&#xd;&#xa;&#x9;C0.555,4.016,4.201,0.37,15,0.37s14.445,3.646,14.445,14.445C29.445,25.614,25.799,29.261,15,29.261z"/>
+ <path stroke-opacity="0.5" fill-opacity="0.5" d="M13,24V13h-1v-2h5v13H13z M15.006,9c-0.613,0-1.101-0.157-1.463-0.472C13.182,8.214,13,7.787,13,7.25&#xd;&#xa;&#x9;c0-0.553,0.184-0.982,0.548-1.289C13.915,5.654,14.4,5.5,15.006,5.5c0.582,0,1.062,0.159,1.435,0.478C16.812,6.296,17,6.72,17,7.25&#xd;&#xa;&#x9;c0,0.553-0.186,0.982-0.554,1.289C16.077,8.847,15.596,9,15.006,9z"/>
+ <path fill="#FFFFFF" d="M13,23V12h-1v-2h5v13H13z M15.006,8c-0.613,0-1.101-0.157-1.463-0.472C13.182,7.214,13,6.787,13,6.25&#xd;&#xa;&#x9;c0-0.553,0.184-0.982,0.548-1.289C13.915,4.654,14.4,4.5,15.006,4.5c0.582,0,1.062,0.159,1.435,0.478C16.812,5.296,17,5.72,17,6.25&#xd;&#xa;&#x9;c0,0.553-0.186,0.982-0.554,1.289C16.077,7.847,15.596,8,15.006,8z"/>
+ <rect width="30" fill="none" height="30"/>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:25:05 2011) - Copyright (C) 2011 Nokia -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70px"
+   x="0px"
+   version="1.1"
+   y="0px"
+   height="70px"
+   viewBox="0 0 70 70"
+   id="Layer_1"
+   xml:space="preserve"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="large_instant_coffee.svg"><metadata
+   id="metadata20"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs18" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview16"
+   showgrid="false"
+   inkscape:zoom="4.1571429"
+   inkscape:cx="35"
+   inkscape:cy="35"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+ <rect
+   width="70"
+   fill="none"
+   height="70"
+   id="rect3" />
+ 
+ <path
+   fill="#9E705C"
+   d="M18.98,36.43l-1.266-11.143h32.57L49.02,36.43H18.98z M20.344,48.43L22,63h24l1.655-14.57H20.344z
+	 M47.715,15h-27.43l-2.57,6.859h32.57L47.715,15z M34,37.287c-2.841,0-5.145,2.299-5.145,5.143c0,2.836,2.304,5.141,5.145,5.141
+	s5.145-2.305,5.145-5.141C39.145,39.586,36.841,37.287,34,37.287z"
+   id="path7" />
+ <linearGradient
+   id="SVGID_1_"
+   y1="63"
+   x1="34.0005"
+   y2="15.0005"
+   gradientUnits="userSpaceOnUse"
+   x2="34.0005">
+  <stop
+   offset="0"
+   style="stop-color:#42210B;stop-opacity:0.1"
+   id="stop10" />
+  <stop
+   offset="1"
+   style="stop-color:#59322B;stop-opacity:0"
+   id="stop12" />
+ </linearGradient>
+ <path
+   fill="url(#SVGID_1_)"
+   d="M18.98,36.43l-1.266-11.143h32.57L49.02,36.43H18.98z M20.344,48.43L22,63h24l1.655-14.57H20.344z
+	 M47.715,15h-27.43l-2.57,6.859h32.57L47.715,15z M34,37.287c-2.841,0-5.145,2.299-5.145,5.143c0,2.836,2.304,5.141,5.145,5.141
+	s5.145-2.305,5.145-5.141C39.145,39.586,36.841,37.287,34,37.287z"
+   id="path14" />
+</svg>

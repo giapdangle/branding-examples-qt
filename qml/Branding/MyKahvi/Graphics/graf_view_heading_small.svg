@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:25:05 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="360px" x="0px" version="1.1" y="0px" height="30px" viewBox="0 0 360 30" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="Layer_1" xml:space="preserve">
+ <path fill="#92624C" d="M360,29H0V7c0-3.866,3.134-7,7-7h346c3.866,0,7,3.134,7,7V29z"/>
+ <linearGradient id="SVGID_1_" y1="0" x1="179.9995" y2="29.0005" gradientUnits="userSpaceOnUse" x2="179.9995">
+  <stop offset="0" style="stop-color:#000000;stop-opacity:0"/>
+  <stop offset="1" style="stop-color:#0A0A0A"/>
+ </linearGradient>
+ <path fill="url(#SVGID_1_)" fill-opacity="0.5" d="M360,29H0V7c0-3.866,3.134-7,7-7h346c3.866,0,7,3.134,7,7V29z"/>
+ <rect width="360" y="28" height="1"/>
+ <rect width="360" y="29" stroke-opacity="0.1" fill="#FFFFFF" height="1" fill-opacity="0.1"/>
+ <path stroke-opacity="0.1" fill="#FFFFFF" fill-opacity="0.1" d="M353,0H7C3.134,0,0,3.134,0,7v1c0-3.866,3.134-7,7-7h346c3.866,0,7,3.134,7,7V7&#xd;&#xa;&#x9;C360,3.134,356.866,0,353,0z"/>
+</svg>

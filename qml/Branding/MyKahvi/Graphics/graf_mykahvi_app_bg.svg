@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:25:05 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="360px" x="0px" version="1.1" y="0px" height="640px" viewBox="0 0 360 640" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="Layer_1" xml:space="preserve">
+ <rect width="360" y="0" fill="#4A2C2A" height="640"/>
+ <linearGradient id="SVGID_1_" y1="0" x1="179.9995" y2="640.0005" gradientUnits="userSpaceOnUse" x2="179.9995">
+  <stop offset="0" style="stop-color:#000000"/>
+  <stop offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+ </linearGradient>
+ <rect width="360" fill="url(#SVGID_1_)" height="640"/>
+</svg>
