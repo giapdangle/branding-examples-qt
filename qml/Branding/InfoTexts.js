@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2011 Nokia Corporation.
+ * Copyright (c) 2011-2014 Microsoft Mobile.
  */
 
 var MAIN_VIEW_INFO_TEXT =
